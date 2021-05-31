@@ -7,4 +7,6 @@ It shows all data about COVID-19 in Kyrgyzstan
 • JavaScript  
 • HTML  
 • CSS  
+ ## Screenshot
  
+
