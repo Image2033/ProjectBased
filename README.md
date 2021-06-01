@@ -3,6 +3,7 @@
 ## Description
 • This is a online COVID-19 Live Table.<br>
 • It shows all data about COVID-19 in Kyrgyzstan
+## Done by: Erlan Alymkulov COM-18
 ## Langueges used
 • JavaScript  
 • HTML  
